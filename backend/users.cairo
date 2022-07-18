@@ -11,6 +11,10 @@ struct Gamer:
 end
 
 @storage_var
+func gamer_list(gamer : Gamer) -> (res : felt):
+end
+
+@storage_var
 func balance(user: felt) -> (res : felt):
 end
 
